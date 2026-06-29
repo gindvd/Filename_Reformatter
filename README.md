@@ -20,18 +20,18 @@ With no extra aguments, the script will parse through all files and replace any 
 All alpha characters will be lowercased
 
 ## Example:
-** Without arguments: **
+Without arguments:
 ```batch
 python file_renamer.py C:\Path\to\Folder
 ```
 
-** With arguments: **
+With arguments:
 ```batch
 python file_renamer.py C:\Path\to\Folder -rp -c -r
 ```
 
 ## CLI Arguments:
-** Add arguments after specified directory for personalized naming preferences **
+Add arguments after specified directory for personalized naming preferences
 | Args | Details |
 |--------|----------|
 | -rp --remove-punctuation | Removes all non-alphanumeric characters from a file name |
