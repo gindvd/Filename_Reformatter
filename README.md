@@ -1,5 +1,5 @@
-# File Renaming Script
-**Standardize filename in a directory with optional arguments for personalized formatting**
+# Filename Reformatter
+**Standardize filenames in a directory with optional arguments for personalized formatting**
 
 ## Instalation:
 Download the [source code](https://github.com/gindvd/Filename_Reformatter/archive/refs/heads/main.zip), and move to preferred directory
